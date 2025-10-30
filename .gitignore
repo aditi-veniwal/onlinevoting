@@ -1,0 +1,5 @@
+# ignore envs and keys
+*.env
+
+# ignore node modules
+blockchain/node_modules/
